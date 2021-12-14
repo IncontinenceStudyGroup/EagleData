@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-12-14T13:21:09Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.6,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MainControll"
+        },
+        "Owner": "Akifumi Takahashi <aktk.j.uec@gmail.com>",
+        "Size": {
+            "X": 85,
+            "Y": 55
+        }
+    }
+}

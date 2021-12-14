@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -14173,9 +14173,9 @@ http://www.xganon.com</description>
 </variantdefs>
 <classes>
 <class number="0" name="default" width="0.1524" drill="0">
-<clearance class="0" value="0.254"/>
+<clearance class="0" value="0.3048"/>
 </class>
-<class number="1" name="vcc_gnd" width="0.6096" drill="0">
+<class number="1" name="vcc_gnd" width="0.4064" drill="0">
 <clearance class="1" value="0.3048"/>
 </class>
 </classes>

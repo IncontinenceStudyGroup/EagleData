@@ -14172,10 +14172,10 @@ http://www.xganon.com</description>
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0.1524" drill="0">
+<class number="0" name="default" width="1.27" drill="0">
 <clearance class="0" value="0.3048"/>
 </class>
-<class number="1" name="vcc_gnd" width="0.4064" drill="0">
+<class number="1" name="vcc_gnd" width="2.54" drill="0">
 <clearance class="1" value="0.3048"/>
 </class>
 </classes>

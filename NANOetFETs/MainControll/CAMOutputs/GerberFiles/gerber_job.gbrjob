@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2021-12-14T13:21:09Z",
+        "CreationDate": "2022-01-17T08:49:20Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -15,7 +15,7 @@
         "Name": {
             "ProjectId": "MainControll"
         },
-        "Owner": "Akifumi Takahashi <aktk.j.uec@gmail.com>",
+        "Owner": "  <n1810474@edu.cc.uec.ac.jp>",
         "Size": {
             "X": 85,
             "Y": 55

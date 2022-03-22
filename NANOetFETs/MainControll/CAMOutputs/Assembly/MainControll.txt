@@ -1,4 +1,4 @@
-Partlist exported from C:/Users/akiphvmi/GoogleDrive/aktk.j.uec/DOCUMENTS/Projects/yowai/EagleData/NANOetFETs/MainControll/MainControll.sch at 2021/12/14 22:21
+Partlist exported from G:/My Drive/DOCUMENTS/EAGLE/projects/EagleData/NANOetFETs/MainControll/MainControll.sch at 2022/03/22 15:38
 
 Qty Value                 Device                Package              Parts                                                                           Description                          POPULARITY SPICEPREFIX
 1                         CPOL-EUE2.5-5         E2,5-5               C1                                                                              POLARIZED CAPACITOR, European symbol 16         C          
